@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Administrator\Downloads\PhotoSelect\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\PhotoSelect\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Administrator\Downloads\PhotoSelect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_3c3144fcfb42cec0a58cd6ba39e0b9ba6efd18eb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\PhotoSelect\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Administrator\Downloads\PhotoSelect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_f34ec2a6fb3a7a16019521491854e611aae3fd8b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\PhotoSelect\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Administrator\Downloads\PhotoSelect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_c8fb0019f7242b939b185632525ee4f3eb9af6b8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\PhotoSelect\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3313723993a1b5c2a0683020580a2dc554cb896b">
+        <dex dex="C:\Users\Administrator\Downloads\PhotoSelect\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0be1fc6a1717f81f5dd4a631d394c1fcdf8d42b7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\PhotoSelect\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Administrator\Downloads\PhotoSelect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_11137cede9a4c78ba123944dfc03c4c07b356abc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Administrator\Downloads\PhotoSelect\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_062ad37633a99321e6a59b7344ab769e17e3db55\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\PhotoSelect\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Administrator\Downloads\PhotoSelect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_1d5d9f82b354f5ec1ccc60507af5f6f2f1575d61\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\PhotoSelect\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e7b3a8d46b0dd65330127bfe7978e9d49fdce6ab">
+        <dex dex="C:\Users\Administrator\Downloads\PhotoSelect\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a163d36e75c878a872ace3ab1d102b255e7fbc30\classes.dex" />
+    </item>
+
+</items>
