@@ -10,7 +10,7 @@ import com.bumptech.glide.Glide;
 
 import java.util.ArrayList;
 
-public class MainActivity extends AppCompatActivity {
+public class PhotoTestActivity extends AppCompatActivity {
 
     private static final int PICK_PHOTO = 1;
 
@@ -19,13 +19,13 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.photo_test_activity);
         image = (ImageView) findViewById(R.id.main_image);
 
         image.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this, PhotoPickerActivity.class);
+                Intent intent = new Intent(PhotoTestActivity.this, PhotoPickerActivity.class);
                 intent.putExtra(PhotoPickerActivity.EXTRA_SHOW_CAMERA, true);//是否相机显示
                 intent.putExtra(PhotoPickerActivity.EXTRA_SELECT_MODE, PhotoPickerActivity.MODE_SINGLE);//是否单选模式
                 intent.putExtra(PhotoPickerActivity.EXTRA_MAX_MUN, PhotoPickerActivity.DEFAULT_NUM);//默认最大数
